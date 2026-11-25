@@ -5,7 +5,7 @@ https://ultimateqa.com/automation
 
 ## Fluxo automatizado
 1. Acessa `/automation`
-2. Clica no item de menu `#menu-item-217945`
+2. Clica no item de menu `Free Strategy Session`
 3. Preenche o formulário (dados em `cypress/fixtures/contactData.json`)
 4. Valida a mensagem **"Thank You"**
 
