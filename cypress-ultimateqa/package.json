@@ -1,0 +1,14 @@
+{
+  "name": "cypress-ultimateqa",
+  "version": "1.0.0",
+  "description": "Exemplo de projeto Cypress (Page Object) para ultimateqa.com/automation",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run",
+    "cy:run:headed": "cypress run --headed --browser chrome",
+    "test": "cypress run"
+  },
+  "devDependencies": {
+    "cypress": "^13.17.0"
+  }
+}
